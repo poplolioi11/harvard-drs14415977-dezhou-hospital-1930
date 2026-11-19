@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite the transcription version and its source edition."
+type: dataset
+title: "山東德縣衛氏博濟醫院報告書 | Annual Report of the Williams-Porter Hospital in Dezhou"
+version: "0.2.0"
+authors:
+  - family-names: Chu
+    given-names: Chen-Yu
+    orcid: "https://orcid.org/0009-0003-9738-6914"
+keywords:
+  - "醫學史"
+  - "山東德縣"
+  - "衛氏博濟醫院"
+  - "護士學校"
+  - "院務報告"
+  - "medical history"
+  - "Williams-Porter Hospital"
+  - "nursing education"
+  - "Dezhou"
+  - "hospital administration"
+  - "annual reports"
+identifiers:
+  - type: url
+    value: "https://id.lib.harvard.edu/alma/990094295600203941/catalog"
