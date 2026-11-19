@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Please cite the transcription version and its source edition."
 type: dataset
 title: "山東德縣衛氏博濟醫院報告書 | Annual Report of the Williams-Porter Hospital in Dezhou"
-version: "0.2.0"
+version: "0.3.0"
 authors:
   - family-names: Chu
     given-names: Chen-Yu

@@ -8,7 +8,7 @@ This 1930 lithographed annual report documents the organization, inpatient and o
 
 - JSON 保留欄位及各幅來源雜湊。TXT 可連讀，TEI 可供交換與字位掛接。
 
-- 本資料為 AI 輔助初錄 0.2.0。原 image 與部件索引可供回圖；□表示待辨字。尚待人工逐字覆核。
+- 兩份同底本圖像獨立讀稿逐欄比對，回圖裁定並修訂 28 處。影像 13 原印差異與未定數值保留，尚待人工全文校對。
 
 - 歷史原刊為公有領域。新撰說明與編碼 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。
 
